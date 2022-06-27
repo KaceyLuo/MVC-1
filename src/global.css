@@ -1,0 +1,14 @@
+#all {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#all>section {
+    width: 50vw;
+    height: 50vh;
+    border: 1px solid blue;
+}
+
+body {
+    overflow: hidden;
+}
